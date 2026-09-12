@@ -43,3 +43,6 @@ Internal DSP    Seed fragment engine
        |
    audio output
 
+   
+# This program is free software: released under the GNU General Public
+# License v3.0 or later.
